@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/housing/static/css/main.d68a70cd.css",
+    "main.js": "/housing/static/js/main.5a1c705d.js",
+    "static/js/787.d6e2dd9d.chunk.js": "/housing/static/js/787.d6e2dd9d.chunk.js",
+    "index.html": "/housing/index.html",
+    "main.d68a70cd.css.map": "/housing/static/css/main.d68a70cd.css.map",
+    "main.5a1c705d.js.map": "/housing/static/js/main.5a1c705d.js.map",
+    "787.d6e2dd9d.chunk.js.map": "/housing/static/js/787.d6e2dd9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68a70cd.css",
+    "static/js/main.5a1c705d.js"
+  ]
+}
